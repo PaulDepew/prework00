@@ -18,6 +18,8 @@
     "jest": "^24.8.0"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jsdoc": "^3.6.4",
+    "travis": "^0.1.1"
   }
 }
